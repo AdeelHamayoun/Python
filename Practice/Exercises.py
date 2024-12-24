@@ -106,7 +106,7 @@ def largest_2nd (list):
     list.sort()
 
 
-opportunity
+
 
 
 # print(list_sum(numbers))
